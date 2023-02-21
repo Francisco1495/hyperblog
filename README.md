@@ -11,3 +11,4 @@ Un blog increible para el curso de Git y Github de Platzi
 * Hace que trabajar en equipo en un proyecto sea algo placentero y sencillo
 * Es un estandard de la industria
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
